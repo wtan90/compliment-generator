@@ -3,7 +3,7 @@ import { getDatabase, ref, push, get } from "https://www.gstatic.com/firebasejs/
 
 // Firebase configuration
 const firebaseConfig = {
-  databaseURL: process.env.KUDOS_DB
+  databaseURL: "https://fir-is-hard-default-rtdb.firebaseio.com/",
 }
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
