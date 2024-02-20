@@ -1,1 +1,1 @@
-Website Link: [Compliment Generator - KudosDelight](https://complimentdelight.netlify.app)
+Website: [Compliment Generator - KudosDelight](https://complimentdelight.netlify.app)
